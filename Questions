@@ -1,1 +1,15 @@
+Questions on NLP 
+
+1. What is difference between NLP and NLU.
+2. How to evaluate accuracy of a question answering model.
+3. Describe BERT in layman term and architecture of BERT.
+4. What are POS tags.
+5. What is NER and significance of NER.
+6. How to implement NER, classification(Mutilabel), QnA model in BERT
+7. What are n-grams
+8. What is TF-IDF
+9. What are tokenization and significance of it.
+10. What is differnce between AI, ML and DL(NLP).
+11. What are regular expression and regular grammer.
+12. What are embeddings. Explain word level, charactor level, sentence level embdeddings.
 
